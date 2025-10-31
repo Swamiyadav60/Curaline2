@@ -1,7 +1,7 @@
-# RuralCare AI 🏥🌾  
+# RuralCare AI 🏥  
 **AI-powered health symptom checker that works online *and offline* in rural & low-resource areas.**
 
-> **“Accessible healthcare for every village, anytime, anywhere.”** – *J. Sri Sai Vaishnav*
+> **“Accessible healthcare for every village, anytime, anywhere.”** – *Team Jugaad*
 
 ---
 
